@@ -19,11 +19,16 @@ I learn by **building things from scratch** — storage engines, interpreters, s
 
 ## 🛠️ Languages & tools
 
-`C++` `Python` `Julia` `Dart/Flutter` `Fortran` `CUDA` · `CMake` `Git` `Linux/Windows`
-
-## 📈 Stats
-
-![lorendw7's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorendw7&show_icons=true&theme=default&rank_icon=github)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-734F96?logo=fortran&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D4?logoColor=white)
 
 ## 📫 Reach me
 
