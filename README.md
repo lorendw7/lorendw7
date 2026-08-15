@@ -9,13 +9,13 @@ I learn by **building things from scratch** — storage engines, interpreters, s
 ## 🧰 What I work on
 
 **Systems & low-level**
-[Mini-API-Gateway](https://github.com/lorendw7/Mini-API-Gateway) · [thread-kitchen](https://github.com/lorendw7/thread-kitchen) · [CSAPP-Labs](https://github.com/lorendw7/CSAPP-Labs) · [OS-in-1000-Lines](https://github.com/lorendw7/OS-in-1000-Lines) · [pylox](https://github.com/lorendw7/pylox) (a Lox interpreter)
+[Mini-API-Gateway](https://github.com/lorendw7/Mini-API-Gateway) · [Thread-kitchen](https://github.com/lorendw7/Thread-kitchen) · [CSAPP-Labs](https://github.com/lorendw7/CSAPP-Labs) · [OS-in-1000-Lines](https://github.com/lorendw7/OS-in-1000-Lines) · [Pylox](https://github.com/lorendw7/Pylox) (a Lox interpreter)
 
 **Scientific computing & ML**
-[PerfusionUDE.jl](https://github.com/lorendw7/PerfusionUDE.jl) — GPU-parallel universal differential equations for PBPK inverse problems · [multiomics-survival-prediction](https://github.com/lorendw7/multiomics-survival-prediction) — multi-omics cancer survival analysis on TCGA, with a biology primer written for programmers · [CFD_12_Step](https://github.com/lorendw7/CFD_12_Step) · [fortran-heat-hpc](https://github.com/lorendw7/fortran-heat-hpc) · [Genetic-algorithm-ml-playground](https://github.com/lorendw7/Genetic-algorithm-ml-playground)
+[PerfusionUDE.jl](https://github.com/lorendw7/PerfusionUDE.jl) — GPU-parallel universal differential equations for PBPK inverse problems · [Multiomics-survival-prediction](https://github.com/lorendw7/Multiomics-survival-prediction) — multi-omics cancer survival analysis on TCGA, with a biology primer written for programmers · [CFD_12_Step](https://github.com/lorendw7/CFD_12_Step) · [Fortran-heat-hpc](https://github.com/lorendw7/Fortran-heat-hpc) · [Genetic-algorithm-ml-playground](https://github.com/lorendw7/Genetic-algorithm-ml-playground)
 
 **Apps people can actually use**
-[Cadence](https://github.com/lorendw7/Cadence) — local-first calendar, to-dos & habit streaks (Flutter, offline-only, EN/中文/日本語) · [inkline](https://github.com/lorendw7/inkline) — sign PDFs entirely in your browser; documents never leave your machine
+[Cadence](https://github.com/lorendw7/Cadence) — local-first calendar, to-dos & habit streaks (Flutter, offline-only, EN/中文/日本語) · [Inkline](https://github.com/lorendw7/Inkline) — sign PDFs entirely in your browser; documents never leave your machine
 
 ## 🛠️ Languages & tools
 
