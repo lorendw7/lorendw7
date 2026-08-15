@@ -4,18 +4,25 @@ I learn by **building things from scratch** — storage engines, interpreters, s
 
 ## 🔭 Currently building
 
+- **[Verify-First](https://github.com/lorendw7/Verify-First)** — a lightweight, verification-first annotation tool for auditing LLM outputs: blind multi-annotator judging with seeded assignment, adjudication, and built-in agreement reports. Early days — design first, code to follow.
 - **[MiniKV](https://github.com/lorendw7/MiniKV)** — a miniature LSM-tree key-value storage engine in modern C++ (WAL + memtable + SSTable + compaction), hand-written as a structured path through RAII, move semantics, templates, and concurrency. Next stop: CMU 15-445 / BusTub.
 
 ## 🧰 What I work on
 
 **Systems & low-level**
-[Mini-API-Gateway](https://github.com/lorendw7/Mini-API-Gateway) · [Thread-kitchen](https://github.com/lorendw7/Thread-kitchen) · [CSAPP-Labs](https://github.com/lorendw7/CSAPP-Labs) · [OS-in-1000-Lines](https://github.com/lorendw7/OS-in-1000-Lines) · [Pylox](https://github.com/lorendw7/Pylox) (a Lox interpreter)
+[Mini-API-Gateway](https://github.com/lorendw7/Mini-API-Gateway) · [Thread-kitchen](https://github.com/lorendw7/Thread-kitchen) · [CSAPP-Labs](https://github.com/lorendw7/CSAPP-Labs) · [OS-in-1000-Lines](https://github.com/lorendw7/OS-in-1000-Lines) · [Pylox](https://github.com/lorendw7/Pylox) (build your own language in pure Python) · [Tinyjson](https://github.com/lorendw7/Tinyjson)
+
+**LLMs & knowledge graphs**
+[LingoGraph-Agent](https://github.com/lorendw7/LingoGraph-Agent) · [Knowledge-Graph-Generator](https://github.com/lorendw7/Knowledge-Graph-Generator) · [LLM-Forge](https://github.com/lorendw7/LLM-Forge)
 
 **Scientific computing & ML**
-[PerfusionUDE.jl](https://github.com/lorendw7/PerfusionUDE.jl) — GPU-parallel universal differential equations for PBPK inverse problems · [Multiomics-survival-prediction](https://github.com/lorendw7/Multiomics-survival-prediction) — multi-omics cancer survival analysis on TCGA, with a biology primer written for programmers · [CFD_12_Step](https://github.com/lorendw7/CFD_12_Step) · [Fortran-heat-hpc](https://github.com/lorendw7/Fortran-heat-hpc) · [Genetic-algorithm-ml-playground](https://github.com/lorendw7/Genetic-algorithm-ml-playground)
+[PerfusionUDE.jl](https://github.com/lorendw7/PerfusionUDE.jl) — GPU-parallel universal differential equations for PBPK inverse problems · [Multiomics-survival-prediction](https://github.com/lorendw7/Multiomics-survival-prediction) — multi-omics cancer survival analysis on TCGA, with a biology primer written for programmers · [CFD_12_Step](https://github.com/lorendw7/CFD_12_Step) · [Fortran-heat-hpc](https://github.com/lorendw7/Fortran-heat-hpc) · [Atari-dqn-pytorch](https://github.com/lorendw7/Atari-dqn-pytorch) · [Genetic-algorithm-ml-playground](https://github.com/lorendw7/Genetic-algorithm-ml-playground)
+
+**Backend & concurrency**
+[Star-ticket](https://github.com/lorendw7/Star-ticket) — high-concurrency ticketing system (Spring Cloud Alibaba, Redis, Kafka) · [PatientFlow-Cloud](https://github.com/lorendw7/PatientFlow-Cloud) · [FastAPI-Media-Hub](https://github.com/lorendw7/FastAPI-Media-Hub)
 
 **Apps people can actually use**
-[Cadence](https://github.com/lorendw7/Cadence) — local-first calendar, to-dos & habit streaks (Flutter, offline-only, EN/中文/日本語) · [Inkline](https://github.com/lorendw7/Inkline) — sign PDFs entirely in your browser; documents never leave your machine
+[Cadence](https://github.com/lorendw7/Cadence) — local-first calendar, to-dos & habit streaks (Flutter, offline-only, EN/中文/日本語) · [FinLedgerPro](https://github.com/lorendw7/FinLedgerPro) — free, local-first finance app: personal bookkeeping + double-entry accounting · [Inkline](https://github.com/lorendw7/Inkline) — sign PDFs entirely in your browser; documents never leave your machine
 
 ## 🛠️ Languages & tools
 
