@@ -5,7 +5,7 @@ I learn by **building things from scratch** — storage engines, interpreters, s
 ## 🔭 Currently building
 
 - **[Labelforge](https://github.com/lorendw7/Labelforge)** — a general-purpose annotation platform for the lab, built on Label Studio: Docker deployment, per-task labeling configs, Python SDK automation, and a validation webhook that gives annotators field-level feedback the moment they submit.
-- **[WakeForge](https://github.com/lorendw7/WakeForge)** — hunting for the wind-farm wake superposition law with symbolic regression and LLM-guided search in Julia, using PyWake-generated data to find interpretable formulas that beat the classical combination rules.
+- **[PerfusionUDE.jl](https://github.com/lorendw7/PerfusionUDE.jl)** — GPU-parallel universal differential equations for population PBPK inverse problems in Julia: data-driven closure of lumped-parameter transport networks, plus large-scale parallel parameter inversion.
 - **[MiniKV](https://github.com/lorendw7/MiniKV)** — a miniature LSM-tree key-value storage engine in modern C++ (WAL + memtable + SSTable + compaction), hand-written as a structured path through RAII, move semantics, templates, and concurrency. Next stop: CMU 15-445 / BusTub.
 
 ## 🧰 What I work on
@@ -17,7 +17,7 @@ I learn by **building things from scratch** — storage engines, interpreters, s
 [LingoGraph-Agent](https://github.com/lorendw7/LingoGraph-Agent) · [Knowledge-Graph-Generator](https://github.com/lorendw7/Knowledge-Graph-Generator) · [LLM-Forge](https://github.com/lorendw7/LLM-Forge) — a GPT-style LLM built from scratch · [Agent-Skills-Manager](https://github.com/lorendw7/Agent-Skills-Manager) — create, manage and share AI agent skills (Next.js 16, Prisma, Vercel)
 
 **Scientific computing & ML**
-[PerfusionUDE.jl](https://github.com/lorendw7/PerfusionUDE.jl) — GPU-parallel universal differential equations for PBPK inverse problems · [Multiomics-survival-prediction](https://github.com/lorendw7/Multiomics-survival-prediction) — multi-omics cancer survival analysis on TCGA, with a biology primer written for programmers · [CFD_12_Step](https://github.com/lorendw7/CFD_12_Step) · [Fortran-heat-hpc](https://github.com/lorendw7/Fortran-heat-hpc) · [Atari-dqn-pytorch](https://github.com/lorendw7/Atari-dqn-pytorch) · [Genetic-algorithm-ml-playground](https://github.com/lorendw7/Genetic-algorithm-ml-playground) · [NEAT-Flappy-Bird](https://github.com/lorendw7/NEAT-Flappy-Bird)
+[Multiomics-survival-prediction](https://github.com/lorendw7/Multiomics-survival-prediction) — multi-omics cancer survival analysis on TCGA, with a biology primer written for programmers · [CFD_12_Step](https://github.com/lorendw7/CFD_12_Step) · [Fortran-heat-hpc](https://github.com/lorendw7/Fortran-heat-hpc) · [Atari-dqn-pytorch](https://github.com/lorendw7/Atari-dqn-pytorch) · [Genetic-algorithm-ml-playground](https://github.com/lorendw7/Genetic-algorithm-ml-playground) · [NEAT-Flappy-Bird](https://github.com/lorendw7/NEAT-Flappy-Bird)
 
 **Backend & concurrency**
 [Star-ticket](https://github.com/lorendw7/Star-ticket) — high-concurrency ticketing system (Spring Cloud Alibaba, Redis, Kafka) · [PatientFlow-Cloud](https://github.com/lorendw7/PatientFlow-Cloud) — Spring Boot microservices with gRPC, Kafka, and AWS ECS · [FastAPI-Media-Hub](https://github.com/lorendw7/FastAPI-Media-Hub)
