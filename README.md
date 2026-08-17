@@ -43,10 +43,6 @@ I learn by **building things from scratch** — storage engines, interpreters, s
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?logoColor=white)
 
-## 📫 Reach me
-
-- Email: lorendw7@gmail.com
-
 ---
 
 *Most projects here are MIT-licensed — feel free to read, fork, and learn from them.*
