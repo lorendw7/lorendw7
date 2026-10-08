@@ -10,26 +10,6 @@ I'm a master's student in Information Science and Electrical Engineering. I stud
 
 [Website](https://lorendw7.github.io/) · [Repositories](https://github.com/lorendw7?tab=repositories)
 
-## Research & publications
-
-### Accepted · CANDAR 2026 / WANC short paper
-
-**Per-Relation Reliability of LLM-Based Knowledge Graph Extraction: A Verification-First Study on Scientific Abstracts**  
-**Shandong He**, Kenji Ono
-
-Relation-level verification across 200 scientific abstracts, 1,831 extracted triples, and 360 human judgments, with self-consistency analysis and two blind LLM judges.
-
-[Data & reproduction code](https://github.com/lorendw7/not-all-relations-are-equally-reliable)  
-Accepted as a short paper; proceedings forthcoming.
-
-### Under review · CoRL 2026 workshop, Pretrain to Adapt
-
-**Task-Dependent Benefits of Cross-Embodiment Pretraining: A Controlled Study of Geometric Demonstration Selection**
-
-Controlled XArm6-to-Panda adaptation with state-based Diffusion Policy in ManiSkill: two tasks, seven conditions, and three training seeds. The benefits of pretraining depend on the task; tested geometric selectors do not consistently outperform random selection.
-
-Submitted manuscript — under review, not an accepted publication.
-
 ## Selected projects
 
 | Project | What I explored |
