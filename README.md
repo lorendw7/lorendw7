@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shandong He</h1>
+<h1 align="center">Hi, I'm lorendw7</h1>
 <p align="center"><strong>Software engineering · Backend & full-stack · Reliable AI</strong></p>
 <p align="center">M.S. student at Kyushu University · Fukuoka, Japan · Expected graduation: March 2028</p>
 <p align="center">
