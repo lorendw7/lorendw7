@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm lorendw7</h1>
 <p align="center"><strong>I learn by building systems from first principles.</strong></p>
 <p align="center">M.S. student at Kyushu University · Fukuoka, Japan · Expected graduation: March 2028</p>
+<p align="center"><strong>Selected for the 2026 WANC Best Paper Award</strong> · presentation at CANDAR 2026 required</p>
 <p align="center">
   <a href="https://lorendw7.github.io/">Portfolio</a> &nbsp; / &nbsp;
   <a href="https://lorendw7.github.io/#now">Current work</a> &nbsp; / &nbsp;
@@ -44,7 +45,7 @@ The roadmap is part of the work, but it is not presented as finished code. [See 
 ### Research
 
 **[Per-Relation Reliability of LLM-Based Knowledge Graph Extraction](https://github.com/lorendw7/not-all-relations-are-equally-reliable)**  
-Accepted short paper, **CANDAR 2026 / WANC**; proceedings forthcoming. A verification-first study on scientific abstracts, with data and reproduction code.
+Selected for the **WANC Best Paper Award** at CANDAR 2026; presentation at the symposium is required and proceedings are forthcoming. A verification-first study on scientific abstracts, with data and reproduction code.
 
 I also study cross-embodiment transfer in robot learning. That manuscript is currently **under review** at the CoRL 2026 Pretrain to Adapt workshop.
 
