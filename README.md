@@ -19,9 +19,9 @@ I'm open to research collaboration now and interested in full-time software engi
 
 | Project | What exists today | Next milestone |
 | :--- | :--- | :--- |
-| **[MiniKV](https://github.com/lorendw7/MiniKV)** · C++20 / CMake | Project foundation and modern-C++ ownership exercises for a learning-first key-value store. | Skip-list memtable, then WAL and SSTables. |
-| **[Labelforge](https://github.com/lorendw7/Labelforge)** · Docker / Label Studio / PostgreSQL | A pinned deployment and reusable XML labeling configurations that can run a study through the UI. | API provisioning, complete exports, progress tracking, and validation. |
-| **[PerfusionUDE.jl](https://github.com/lorendw7/PerfusionUDE.jl)** · Julia / SciML | A pre-release package with a sourced reference-physiology layer and tested invariants. | PBPK transport model, population GPU path, inference, and identifiability tooling. |
+| **[NodePulse](https://github.com/lorendw7/nodepulse)** · Go / HTTP | Monitor and agent processes with configuration, request logs, health checks, signal handling, and infrastructure tests. | Heartbeat delivery, node registry, query API, and timeout classification. |
+| **[Tinyjson](https://github.com/lorendw7/Tinyjson)** · C++20 / CMake | An explicit model for the six JSON value types and a small executable foundation. | Tokenizer, recursive-descent parser, serializer, and broader tests. |
+| **[Deep Learning for Biology](https://github.com/lorendw7/Deep-Learning-For-Biology)** · Python / PyTorch | A pinned Windows CPU environment, notebook preparation, dependency checks, and pretrained ResNet compatibility tooling. | Run, compare, and document the book's chapter experiments. |
 
 The roadmap is part of the work, but it is not presented as finished code. [See the current build status on my portfolio →](https://lorendw7.github.io/#now)
 
@@ -31,16 +31,18 @@ The roadmap is part of the work, but it is not presented as finished code. [See 
 | :--- | :--- | :--- |
 | **[Inkline](https://github.com/lorendw7/inkline)** · [Live app](https://lorendw7.github.io/inkline/) | A shipped browser PDF signer: open, place, resize, and export signatures with document processing kept on-device and network access blocked by CSP. | React · TypeScript · PDF.js · pdf-lib |
 | **[PatientFlow Cloud](https://github.com/lorendw7/PatientFlow-Cloud)** | A backend learning project with patient, billing, analytics, and authentication services; gRPC calls, Kafka events, a JWT gateway, and container configuration. | Java · Spring Boot · gRPC · Kafka |
+| **[Procmon](https://github.com/lorendw7/Procmon)** | A small `top`-like Linux process monitor with procfs parsing, two-snapshot CPU calculation, RSS reporting, sorting, and live or one-shot output. | C · Linux / procfs · POSIX |
 | **[Agent Skills Manager](https://github.com/lorendw7/Agent-Skills-Manager)** | A full-stack application for creating and sharing Markdown agent skills, with authentication, a management dashboard, and a public gallery. | Next.js · TypeScript · Prisma · PostgreSQL |
 
 [Read implementation notes and known limitations →](https://lorendw7.github.io/project-notes.html)
 
 ### More directions
 
-- **Systems & low-level:** [Mini API Gateway](https://github.com/lorendw7/Mini-API-Gateway) · [Thread Kitchen](https://github.com/lorendw7/Thread-kitchen) · [Procmon](https://github.com/lorendw7/Procmon) · [Pylox](https://github.com/lorendw7/Pylox)
+- **Systems & low-level:** [MiniKV](https://github.com/lorendw7/MiniKV) *(foundation stage)* · [Mini API Gateway](https://github.com/lorendw7/Mini-API-Gateway) *(roadmap stage)* · [Thread Kitchen](https://github.com/lorendw7/Thread-kitchen) *(in progress)* · [OS in 1000 Lines](https://github.com/lorendw7/OS-in-1000-Lines)
 - **Backend & concurrency:** [StarTicket](https://github.com/lorendw7/Star-ticket) *(active development)* · [Life Preference](https://github.com/lorendw7/Life-Preference) · [FastAPI Media Hub](https://github.com/lorendw7/FastAPI-Media-Hub)
 - **AI & knowledge:** [LingoGraph Agent](https://github.com/lorendw7/LingoGraph-Agent) *(course-based learning project)* · [Knowledge Graph Generator](https://github.com/lorendw7/Knowledge-Graph-Generator) · [LLM Forge](https://github.com/lorendw7/LLM-Forge)
 - **Local-first & interactive:** [Cadence](https://github.com/lorendw7/Cadence) *(in development)* · [FinLedger Pro](https://github.com/lorendw7/FinLedgerPro) · [Starry-Eyes](https://starry-eyes.vercel.app/) · [BalloonBarrage](https://github.com/lorendw7/BalloonBarrage) *(in development)*
+- **Structured practice:** [AtCoder Blue Project](https://github.com/lorendw7/atcoder-practice) · [CFD 12 Step](https://github.com/lorendw7/CFD_12_Step) · [Deep Learning for Biology](https://github.com/lorendw7/Deep-Learning-For-Biology)
 
 ### Research
 
