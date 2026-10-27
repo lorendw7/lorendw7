@@ -49,8 +49,6 @@ The roadmap is part of the work, but it is not presented as finished code. [See 
 **[Per-Relation Reliability of LLM-Based Knowledge Graph Extraction](https://github.com/lorendw7/not-all-relations-are-equally-reliable)**  
 Selected for the **WANC Best Paper Award** at CANDAR 2026; presentation at the symposium is required and proceedings are forthcoming. A verification-first study on scientific abstracts, with data and reproduction code.
 
-I also study cross-embodiment transfer in robot learning. That manuscript is currently **under review** at the CoRL 2026 Pretrain to Adapt workshop.
-
 ### Languages & tools
 
 | Area | Tools |
