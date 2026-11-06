@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm lorendw7</h1>
 <p align="center"><strong>I learn by building systems from first principles.</strong></p>
-<p align="center">M.S. student at Kyushu University · Fukuoka, Japan · Expected graduation: March 2028</p>
+<p align="center">M.S. student &amp; Research Assistant at Kyushu University · Fukuoka, Japan · Expected graduation: March 2028</p>
 <p align="center"><strong>Selected for the 2026 WANC Best Paper Award</strong> · presentation at CANDAR 2026 required</p>
 <p align="center">
   <a href="https://lorendw7.github.io/">Portfolio</a> &nbsp; / &nbsp;
@@ -11,7 +11,9 @@
 
 ---
 
-I'm Shandong He. I move between storage engines, backend services, scientific computing, and local-first applications—usually by implementing the layer below the one I already understand. I care about explicit constraints, reproducible evidence, and documentation that says what is built **today**, not only what is planned.
+I'm Shandong He, a Research Assistant in Ono Laboratory at Kyushu University's Research Institute for Information Technology. My current RA project, **[Kyudai LLM Context Bridge](https://github.com/lorendw7/kyudai-llm-context-bridge)**, studies context continuity when switching language models.
+
+I move between storage engines, backend services, scientific computing, and local-first applications—usually by implementing the layer below the one I already understand. I care about explicit constraints, reproducible evidence, and documentation that says what is built **today**, not only what is planned.
 
 I'm open to research collaboration now and interested in full-time software engineering opportunities in Japan after graduation.
 
@@ -19,9 +21,12 @@ I'm open to research collaboration now and interested in full-time software engi
 
 | Project | What exists today | Next milestone |
 | :--- | :--- | :--- |
+| **[Kyudai LLM Context Bridge](https://github.com/lorendw7/kyudai-llm-context-bridge)** · RA research · [Project website](https://lorendw7.github.io/kyudai-llm-context-bridge/) | Localhost-only Go health endpoint and test; documented Go + Ollama + Python Mem0 OSS architecture and evaluation design. | Model switching, memory, persistence, authentication, and comparative evaluation on Genkai. |
 | **[NodePulse](https://github.com/lorendw7/nodepulse)** · Go / HTTP | Monitor and agent processes with configuration, request logs, health checks, signal handling, and infrastructure tests. | Heartbeat delivery, node registry, query API, and timeout classification. |
 | **[Tinyjson](https://github.com/lorendw7/Tinyjson)** · C++20 / CMake | An explicit model for the six JSON value types and a small executable foundation. | Tokenizer, recursive-descent parser, serializer, and broader tests. |
 | **[Deep Learning for Biology](https://github.com/lorendw7/Deep-Learning-For-Biology)** · Python / PyTorch | A pinned Windows CPU environment, notebook preparation, dependency checks, and pretrained ResNet compatibility tooling. | Run, compare, and document the book's chapter experiments. |
+
+Context Bridge is an early research prototype: its website uses synthetic demo data, and token savings and model quality have not been measured. It originates in RA work and is not an official university service.
 
 The roadmap is part of the work, but it is not presented as finished code. [See the current build status on my portfolio →](https://lorendw7.github.io/#now)
 
@@ -46,6 +51,9 @@ The roadmap is part of the work, but it is not presented as finished code. [See 
 
 ### Research
 
+**[Kyudai LLM Context Bridge](https://github.com/lorendw7/kyudai-llm-context-bridge)** · Current RA work  
+Investigating source-linked memory and user/laboratory isolation across model switches. The planned evaluation compares full history, rolling summaries, and retrieved memory for recall, corrections, provenance, and token costs; integration and evaluation remain future work.
+
 **[Per-Relation Reliability of LLM-Based Knowledge Graph Extraction](https://github.com/lorendw7/not-all-relations-are-equally-reliable)**  
 Selected for the **WANC Best Paper Award** at CANDAR 2026; presentation at the symposium is required and proceedings are forthcoming. A verification-first study on scientific abstracts, with data and reproduction code.
 
@@ -53,7 +61,7 @@ Selected for the **WANC Best Paper Award** at CANDAR 2026; presentation at the s
 
 | Area | Tools |
 | :--- | :--- |
-| Languages | C/C++ · Java · Python · Julia · JavaScript / TypeScript · Dart |
+| Languages | Go · C/C++ · Java · Python · Julia · JavaScript / TypeScript · Dart |
 | Systems & backend | Linux · CMake · Docker · Spring Boot · FastAPI · Redis · Kafka |
 | Scientific computing | Julia SciML · PyTorch · NumPy · Pandas · scikit-learn |
 | Applications & data | React · Next.js · Flutter · PostgreSQL · MySQL · SQLite |
